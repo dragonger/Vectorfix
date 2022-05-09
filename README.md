@@ -1,0 +1,2 @@
+# Vectorfix
+  um programa que inicia com todos os dez quartos vazios lê uma quantidade N representando o número de estudantes que vão alugar quartos (N pode ser de 1 a 10). Em seguida registra o aluguel dos N estudantes. Para cada registro de aluguel, informar o nome e email do estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha que seja escolhido um quarto vago. Ao final o progama tem a escolha de imprimir um relatório de todas ocupações do pensionato por ordem de quarto
