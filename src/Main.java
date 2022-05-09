@@ -38,8 +38,10 @@ public class Main {
 
             System.out.println("\n Busy rooms:");
             for (int i = 0; i < 10; i++) {
+
                 if (vect[i] != null) {
                     System.out.println(i + ":" + vect[i]);
+
                 }
             }
         }
